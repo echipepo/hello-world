@@ -10,4 +10,4 @@ From Maputo, Mozambique
 ## Interests
 - Cybersecurity
 - Secure applications
-- 
+
